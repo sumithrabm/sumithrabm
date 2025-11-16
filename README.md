@@ -1,83 +1,84 @@
-<h1 align="center">Hi, I'm Sumithra BM</h1>
-<h3 align="center">CSE Graduate | Aspiring Full Stack Developer | Web Development |</h3>
+<h1 align="center" style="color:#d8cfc4;">Hi 👋, I'm Sumithra BM</h1>
+<h3 align="center" style="color:#b8aea3;">CSE Student | Aspiring Full Stack Developer | Web Development | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress!;Web+Developer+%7C+Programmer+%7C+Tech+Learner;Always+Learning+New+Things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=1000&color=B7AFA3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;Web+Developer+%7C+Programmer;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 **Computer Science Engineering Student**  
-- 💻 Passionate about **Full Stack Development**  
-- 🌱 Currently learning: **React, JavaScript, Python, SQL, Git**  
+- 🎓 Computer Science Engineering Student  
+- 💻 Passionate about Full Stack Development  
+- 🌱 Currently learning React, JavaScript, Python, SQL, Git  
 - 🔭 Building practical projects to strengthen my development skills  
-- 🎯 Goal: Become a **Professional Web Developer / Full Stack Engineer**  
+- 🎯 Goal: Become a Professional Web Developer / Full Stack Engineer  
 - ⚡ Fun fact: I love solving problems and building creative UIs  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools (Soft Colors)
 
-### 🧩 **Frontend**
+### 🧩 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-e8dcd1?style=for-the-badge&logo=html5&logoColor=8a7f74" />
+  <img src="https://img.shields.io/badge/CSS3-d6ccc2?style=for-the-badge&logo=css3&logoColor=72695f" />
+  <img src="https://img.shields.io/badge/JavaScript-dfd6ce?style=for-the-badge&logo=javascript&logoColor=7a6f65" />
+  <img src="https://img.shields.io/badge/React-e3dcd5?style=for-the-badge&logo=react&logoColor=6f6f6f" />
 </p>
 
-### 🖥️ **Backend & Programming**
+### 🖥️ Backend & Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-e8e0d7?style=for-the-badge&logo=python&logoColor=7b7368" />
+  <img src="https://img.shields.io/badge/SQL-dcd3c9?style=for-the-badge&logo=postgresql&logoColor=6c645b" />
 </p>
 
-### 🧰 **Tools**
+### 🧰 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-e3dad0?style=for-the-badge&logo=git&logoColor=7c6f66" />
+  <img src="https://img.shields.io/badge/GitHub-dcd2c8?style=for-the-badge&logo=github&logoColor=6e6e6e" />
+  <img src="https://img.shields.io/badge/VS%20Code-e8dfd7?style=for-the-badge&logo=visualstudiocode&logoColor=7b756d" />
+  <img src="https://img.shields.io/badge/Firebase-e6dbd0?style=for-the-badge&logo=firebase&logoColor=8b7b70" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🔥 **My Best Work**
-- 🌐 **Web Development Project Repository**  
-  Building UI + functionality using HTML, CSS, JS, React  
-- 📁 **Mini Frontend Projects**  
-  Practice projects to improve web development skills  
-- 🧮 **React Based Apps** (coming soon!)  
-- 🛒 **E-commerce UI / Dashboard Projects** (in progress)
+### 🔥 My Best Work
+- 🌐 Web Development Project  
+- 📁 Mini Frontend Projects  
+- 🧮 React Apps (coming soon)  
+- 🛒 E-Commerce UI / Dashboard (in progress)
 
+👉 *Pin your best repositories so they show here!*
 
 ---
 
 ## 🧠 Currently Learning  
-- React.js  
+- React  
 - API Integration  
-- Python for backend  
-- SQL for databases  
-- Version control (Git & GitHub)
+- Python backend  
+- SQL databases  
+- Git & GitHub  
 
 ---
 
 ## 📫 Connect With Me  
-- **Email:** your-email@gmail.com  
-- **LinkedIn:** Add your LinkedIn link  
+- Email: **sumithrabm08@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/sumithra-bm-70317a30b/ 
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics (Soft Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumithrabm&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithrabm&layout=compact&theme=tokyonight" height="170" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumithrabm&show_icons=true&theme=graywhite&hide_title=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithrabm&layout=compact&theme=graywhite&hide_border=true" />
 </p>
 
 ---
 
-ter">⭐ Thanks for visiting my GitHub profile! ⭐<br/>Feel free to explore my repositories!</h3>
+
+
+<h3 align="center" style="color:#bdb4a8;">🤍 Thanks for visiting my profile 🤍</h3>
