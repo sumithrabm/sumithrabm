@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#d8cfc4;">Hi 👋, I'm Sumithra BM</h1>
+<h1 align="center" style="color:#d8cfc4;">Hi, I'm Sumithra BM</h1>
 <h3 align="center" style="color:#b8aea3;">CSE Graduate | Aspiring Full Stack Developer | Web Development | </h3>
 
 <p align="center">
