@@ -67,8 +67,8 @@
 ---
 
 ## 📫 Connect With Me  
-- **Email:** your-email@gmail.com  
-- **LinkedIn:** Add your LinkedIn link  
+- **Email:** sumithrabm024@gmail.com  
+- **LinkedIn:**https://www.linkedin.com/in/sumithra-bm-70317a30b/
 
 ---
 
@@ -81,10 +81,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/sumithrabm/sumithrabm/blob/output/github-contribution-grid-snake.gif" />
-</p>
 
 ---
 
