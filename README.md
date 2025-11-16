@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools (Soft Colors)
+## 🛠️ Tech Stack & Tools 
 
 ### 🧩 Frontend
 <p>
@@ -51,7 +51,6 @@
 - 🧮 React Apps (coming soon)  
 - 🛒 E-Commerce UI / Dashboard (in progress)
 
-👉 *Pin your best repositories so they show here!*
 
 ---
 
@@ -70,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Analytics (Soft Theme)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumithrabm&show_icons=true&theme=graywhite&hide_title=true&hide_border=true" />
