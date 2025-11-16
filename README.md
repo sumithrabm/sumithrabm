@@ -68,7 +68,7 @@
 
 ## 📫 Connect With Me  
 - **Email:** sumithrabm024@gmail.com  
-- **LinkedIn:**https://www.linkedin.com/in/sumithra-bm-70317a30b/
+- **LinkedIn:** https://www.linkedin.com/in/sumithra-bm-70317a30b/
 
 ---
 
