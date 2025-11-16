@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#d8cfc4;">Hi 👋, I'm Sumithra BM</h1>
-<h3 align="center" style="color:#b8aea3;">CSE Student | Aspiring Full Stack Developer | Web Development | Data Science Enthusiast</h3>
+<h3 align="center" style="color:#b8aea3;">CSE Graduate | Aspiring Full Stack Developer | Web Development | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=1000&color=B7AFA3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;Web+Developer+%7C+Programmer;Always+Learning+New+Things" />
