@@ -53,7 +53,7 @@
 - 🧮 **React Based Apps** (coming soon!)  
 - 🛒 **E-commerce UI / Dashboard Projects** (in progress)
 
-👉 *Pin your top projects so they appear on your profile!*
+
 
 ---
 
